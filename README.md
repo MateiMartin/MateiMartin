@@ -10,15 +10,16 @@
 <br />
 <br />
 
-Hi, I'm Martin Matei, a Full Stack Developer 🚀 from Romania, currently, I am in my third year of High School. 👨🏽‍💻
-Besides programming, I enjoy sports, music, and gaming.
+Hello, I'm Martin Matei, an enthusiastic Full Stack Developer 🚀 from Romania. Currently, I'm in my third year of High School, passionately dedicating myself to the captivating world of coding and programming, as I continue to learn and grow in this exciting field 👨🏽‍💻.
+
+Alongside my ongoing education, I find immense joy in exploring various activities. Sports, music, and gaming are all sources of delight for me, serving as avenues to unwind and recharge. It's especially gratifying to see how each of these interests intersects with my programming journey, allowing me to approach challenges with a fresh and creative perspective.🚀💻
 
   <img align="right" alt="GIF" src="https://www.cdipits.com/public/uploads/service-.gif" width="500" height="320" />
   
 **Information:**
 
 - 👨🏽‍💻 Learning React and C++.
-- 💬 If, for some odd reason, you would like to contact me, this is the place for you: martin.matei@gmail.com.
+- 📧 Feel free to reach out to me at martin.matei@gmail.com
 
 **Languages and Tools:**  
 
