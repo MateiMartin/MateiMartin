@@ -63,22 +63,3 @@ Besides programming, I enjoy sports, music, and gaming.
     <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/>
   </a
 </p>
-
-<details>
-<summary>📈 My GitHub Stats</summary>
-
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=MateiMartin&show_icons=true&theme=tokyonight)
-
-
-</details>
-
-
-<details>
-<summary>📈 My Top Languages</summary>
-
-  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MateiMartin&layout=compact)
-
-
-</details>
