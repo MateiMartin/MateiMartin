@@ -1,4 +1,4 @@
-[![MasterHead](https://camo.githubusercontent.com/c1174683d66e0b11b76617e5ef33a6e101feb17ca81aef9df43852a26c8d36f3/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313430302f302a78347251466a666930694b33675331542e676966)](https://github.com/MateiMartin)
+[![MasterHead](https://user-images.githubusercontent.com/97012708/233769558-710dd1c2-75c1-4e35-bf96-7d125a4c25b2.gif)](https://github.com/MateiMartin)
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <a href="https://leetcode.com/MartinMatei/">
   <img align="left" alt="Calcopod's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
@@ -10,15 +10,13 @@
 <br />
 <br />
 
-Hello, I'm Martin Matei, an enthusiastic Full Stack Developer 🚀 from Romania. Currently, I'm in my third year of High School, passionately dedicating myself to the captivating world of coding and programming, as I continue to learn and grow in this exciting field 👨🏽‍💻.
-
-Alongside my ongoing education, I find immense joy in exploring various activities. Sports, music, and gaming are all sources of delight for me, serving as avenues to unwind and recharge. It's especially gratifying to see how each of these interests intersects with my programming journey, allowing me to approach challenges with a fresh and creative perspective.🚀💻
+Hello, I'm Martin Matei, an enthusiastic Full Stack Developer 🚀 from Romania. I'm a student in my third year of High School with a keen interest in programming, full-stack development, and cybersecurity 👨🏽‍💻. Beyond my educational pursuits, I find joy in sports, music, and gaming, which not only serve as sources of delight but also inspire my creative approach to coding challenges 🚀💻.
 
   <img align="right" alt="GIF" src="https://www.cdipits.com/public/uploads/service-.gif" width="500" height="320" />
   
 **Information:**
 
-- 👨🏽‍💻 Learning React and C++.
+- 👨🏽‍💻 Learning Python and C++.
 - 📧 Feel free to reach out to me at martin.matei@gmail.com
 
 **Languages and Tools:**  
