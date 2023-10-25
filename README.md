@@ -67,4 +67,12 @@ Hello, I'm Martin Matei, an enthusiastic Full Stack Developer 🚀 from Romania.
     <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="tailwind" width="40" height="40"/>
   </a
+    </a
+    <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/2048px-Python.svg.png" alt="tailwind" width="40" height="40"/>
+  </a
+     </a
+    <a href="https://portswigger.net/burp" target="_blank" rel="noreferrer">
+    <img src="https://assets.tryhackme.com/img/modules/burp-suite.png" alt="tailwind" width="40" height="40"/>
+  </a
 </p>
