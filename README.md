@@ -10,7 +10,7 @@
 <br />
 <br />
 
-Hello, I'm Martin Matei, an enthusiastic Full Stack Developer 🚀 from Romania. I'm a student in my third year of High School with a keen interest in programming, full-stack development, and cybersecurity 👨🏽‍💻. Beyond my educational pursuits, I find joy in sports, music, and gaming, which not only serve as sources of delight but also inspire my creative approach to coding challenges 🚀💻.
+Hello, I'm Martin Matei, a passionate developer from Romania with a strong focus on cybersecurity. Currently, I'm in my fourth year of High School, deeply engaged in programming and enhancing digital security practices 👨🏽‍💻. I've done some web development in the past, which laid the foundation for my interest in cybersecurity. I'm also an active CTF (Capture The Flag) player, constantly honing my skills in real-world security scenarios. Outside of academics, I enjoy sports, music, and gaming, which not only bring me joy but also fuel my innovative approach to tackling cybersecurity challenges 🚀💻.
 
   <img align="right" alt="GIF" src="https://www.cdipits.com/public/uploads/service-.gif" width="500" height="320" />
   
