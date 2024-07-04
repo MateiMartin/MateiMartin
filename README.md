@@ -1,10 +1,13 @@
 [![MasterHead](https://user-images.githubusercontent.com/97012708/233769558-710dd1c2-75c1-4e35-bf96-7d125a4c25b2.gif)](https://github.com/MateiMartin)
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <a href="https://leetcode.com/MartinMatei/">
-  <img align="left" alt="Calcopod's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
+  <img align="left" alt="leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
 </a>
 <a href="https://www.instagram.com/matei.martin/">
-  <img align="left" alt="Calcopod's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/instagram.svg" />
+  <img align="left" alt="instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/instagram.svg" />
+</a>
+<a href="https://app.hackthebox.com/users/1646448">
+  <img align="left" alt="HTB" width="22px" src="https://www.svgrepo.com/show/330606/hackthebox.svg" />
 </a>
 
 <br />
