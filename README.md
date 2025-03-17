@@ -21,7 +21,7 @@ Hello, I'm Martin Matei, a passionate developer from Romania with a strong focus
 
 - 👨🏽‍💻 Learning Python and C++.
 - 📧 Feel free to reach out to me at martin.matei@gmail.com
-- My website: https://mateim.live/
+- My website: [https://mateimartin.github.io/](https://mateimartin.github.io/)
 
 **Languages and Tools:**  
 
