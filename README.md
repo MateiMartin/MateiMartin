@@ -13,7 +13,7 @@
 <br />
 <br />
 
-Hello, I'm Martin Matei, a passionate developer from Romania with a strong focus on cybersecurity. Currently, I'm in my fourth year of High School, deeply engaged in programming and enhancing digital security practices 👨🏽‍💻. I've done some web development in the past, which laid the foundation for my interest in cybersecurity. I'm also an active CTF (Capture The Flag) player, constantly honing my skills in real-world security scenarios. Outside of academics, I enjoy sports, music, and gaming, which not only bring me joy but also fuel my innovative approach to tackling cybersecurity challenges 🚀💻.
+I’m Martin Matei, an enthusiastic student and CTF player in my first year of Computer Engineering at Politehnica University of Bucharest. I’m passionate about cybersecurity, actively working toward industry-relevant certifications and helping others develop both cybersecurity and CTF-oriented problem-solving skills. I’m also highly interested in AI automation workflows and exploring how current AI models can be integrated into real-world tasks to improve efficiency and impact.
 
   <img align="right" alt="GIF" src="https://www.cdipits.com/public/uploads/service-.gif" width="500" height="320" />
   
