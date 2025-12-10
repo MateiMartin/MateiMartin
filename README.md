@@ -19,9 +19,9 @@ I’m Martin Matei, an enthusiastic student and CTF player in my first year of C
   
 **Information:**
 
-- 👨🏽‍💻 Learning Python and C++.
+- 👨🏽‍💻 Learning Active Directory Exploitation
 - 📧 Feel free to reach out to me at martin.matei@gmail.com
-- My website: [https://mateimartin.github.io/](https://mateimartin.github.io/)
+- My website: [mateimartin.github.io](https://mateimartin.github.io/)
 
 **Languages and Tools:**  
 
